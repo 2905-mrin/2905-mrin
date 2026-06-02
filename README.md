@@ -36,9 +36,10 @@
 
 ## Featured Projects
 
-### Vehicle Parking App
+### Placement Portal Application
 
-A full-stack parking management system built using Flask, SQLite, Jinja2, and Bootstrap.
+A placement management system for handling student and recruiter workflows.
+https://github.com/23f2000333/Placement-Portal-Application
 
 ### Flight Price Prediction
 
@@ -52,9 +53,10 @@ Classification project comparing multiple machine learning algorithms and hyperp
 
 Data science project using customer review data and predictive modeling techniques.
 
-### Placement Portal Application
+### Hospital Management System
 
-A placement management system for handling student and recruiter workflows.
+A full-stack hospital management system built using Flask, SQLite, Jinja2, and Bootstrap.
+https://github.com/23f2000333/hospital-management-system
 
 ### Ping Pong Game
 
